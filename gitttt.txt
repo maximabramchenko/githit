@@ -1,0 +1,13 @@
+git --version
+
+git --help
+
+ D:\git pr> git init
+
+git status
+
+git add index.html
+
+git rm --cached index.html
+
+git add .
