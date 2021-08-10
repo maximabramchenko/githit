@@ -27,3 +27,5 @@ git checkout -b new
 git merge  max
 
 git push -u origin master
+
+git push
