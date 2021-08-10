@@ -11,3 +11,11 @@ git add index.html
 git rm --cached index.html
 
 git add .
+
+git commit -m "my commit"
+
+git branch
+
+git branch test
+
+git branch -D test
