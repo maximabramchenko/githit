@@ -29,3 +29,7 @@ git merge  max
 git push -u origin master
 
 git push
+
+git pull
+
+git proverka
